@@ -41,7 +41,7 @@
 ## Использованные технологии
 
 - `Python`, `Pandas`, `Seaborn`, `Matplotlib`
-- `SQL`, `SQLite`
+- `SQL`
 - `Sklearn`, `LogisticRegression`, `RandomForest`
 - `SHAP`
 
